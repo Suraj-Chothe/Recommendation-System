@@ -6,8 +6,10 @@ Created on Thu Nov  9 08:31:00 2023
 
 """
 
-import pandas as pd
 
+import pandas as pd
+import numpy as np
+#load dataset
 anime = pd.read_csv("C:/Datasets/anime.csv", encoding='utf8')
 anime.shape
 #you will get 12294x7 matrix
