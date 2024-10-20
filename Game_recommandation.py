@@ -19,6 +19,8 @@ Minimize : Minimize less rating video game DVDs in shop.
 Maximize : Maximize More Rating of video gaming DVDs in shop.
 Business Constraints : Give apporiate Recommendation of similar DVDs to customer.
 """
+
+
 """
 Data Dictionary
 
