@@ -16,7 +16,6 @@ has collected the data and shared it with you to provide some
 analytical insights and also to come up with a recommendation 
 algorithm so that it can automate its process for effective 
 recommendations. The ratings are between -9 and +9.
-
 """
 """
 Business Objectives
